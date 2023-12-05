@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/f28b4022600593.58c272e374fa3.gif)
 
-<h1 align="center">Hi 👋, This is Syed Ittisaf Tazwar</h1>
+<h1 align="center">Hi , This is Syed Ittisaf Tazwar</h1>
 <h3 align="center">An aspiring developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/50960013/127277181-3871659d-6d90-409e-b6a9-b8279a391430.gif"/>
 
